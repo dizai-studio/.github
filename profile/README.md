@@ -1,4 +1,4 @@
-![Đìzai Studio](./Cover-Black.png "Đìzai Studio")
+![Đìzai Studio](./profile/Cover-Black.png "Đìzai Studio")
 
 # Welcome to Đìzai Studio
 
